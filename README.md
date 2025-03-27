@@ -1,31 +1,56 @@
-# PROJECTNAME
+# 🚀 Cybersecurity Portfolio
 
-## Objective
-[Brief Objective - Remove this afterwards]
+Welcome to my cybersecurity portfolio! This repository showcases my hands-on projects, security research, and learning journey.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+---
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+## 🔐 Featured Projects
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+### 1️⃣ Network Security Scanning
+- Used **Nmap** to perform network reconnaissance and identify open ports.
+- Captured and analyzed traffic using **Wireshark**.
+- Documented findings in a detailed report.
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+### 2️⃣ Web Security Testing
+- Conducted **SQL Injection** and **Cross-Site Scripting (XSS)** tests.
+- Used **Burp Suite** for web application security assessments.
+- Hardened security configurations based on test results.
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+### 3️⃣ Threat Hunting & Malware Analysis
+- Investigated phishing emails and analyzed malicious attachments.
+- Performed digital forensics on a compromised system.
+- Created detailed **incident response reports**.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+### 4️⃣ Social Engineering Lab (SET Toolkit)
+- Planned and executed a **social engineering attack simulation** using the **Social-Engineer Toolkit (SET)**.
+- Demonstrated phishing techniques in a controlled lab environment.
+- Gained practical experience in ethical hacking and user awareness.
 
-Every screenshot should have some text explaining what the screenshot is about.
+### 5️⃣ Password Cracking Lab (Cain & Abel)
+- Performed **dictionary attacks** to crack weak passwords using **Cain & Abel**.
+- Analyzed the importance of **strong password policies**.
+- Identified and reported vulnerabilities in user authentication methods.
 
-Example below.
+### 6️⃣ Vulnerability Scanning with Nikto
+- Scanned a web server using **Nikto** to identify outdated software, misconfigurations, and known vulnerabilities.
+- Tested the host and reported findings.
+- Gained experience with open-source vulnerability scanners.
 
-*Ref 1: Network Diagram*
+---
+
+## 🛠 Tools & Technologies
+✔ Kali Linux  
+✔ Wireshark  
+✔ Burp Suite  
+✔ Metasploit  
+✔ Nmap  
+✔ Nikto  
+✔ John the Ripper  
+✔ Cain & Abel  
+✔ Python for security scripting  
+
+---
+
+## 📩 Contact  
+**Email:** t.michaeled@gmail.com  
+**LinkedIn:** [linkedin.com/in/michaèled](http://linkedin.com/in/michaèled)
